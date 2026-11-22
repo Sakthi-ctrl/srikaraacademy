@@ -1,0 +1,10 @@
+{
+  "description": "Explore Sri Kara Academy’s courses, programs, and services through a professional website that helps prospective students find the information they need.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
